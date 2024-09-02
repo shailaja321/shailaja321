@@ -1,0 +1,2 @@
+python QuantifyCovid.py
+pause
